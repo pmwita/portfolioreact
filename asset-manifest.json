@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolioreact/static/css/main.4c3e6054.css",
+    "main.js": "/portfolioreact/static/js/main.cf800c2d.js",
+    "static/media/restaurant1.png": "/portfolioreact/static/media/restaurant1.9b4bbce1cba63a72ebec.png",
+    "static/media/Resume.pdf": "/portfolioreact/static/media/Resume.b200c317f8cd185118af.pdf",
+    "static/media/gisireschool.jpg": "/portfolioreact/static/media/gisireschool.dd535d48891d76adf090.jpg",
+    "static/media/onlinestore.jpg": "/portfolioreact/static/media/onlinestore.ea6a20e5591dc14cf60a.jpg",
+    "static/media/resized1.png": "/portfolioreact/static/media/resized1.79c2f398d730b6d0497f.png",
+    "static/media/boy.png": "/portfolioreact/static/media/boy.5ca4b670a32b71681d2c.png",
+    "static/media/tinyecommerce.jpg": "/portfolioreact/static/media/tinyecommerce.d4800392afdfefa94221.jpg",
+    "static/media/IAMLINET.jpg": "/portfolioreact/static/media/IAMLINET.c746e1d5a84f25caea93.jpg",
+    "static/media/glassesimoji.png": "/portfolioreact/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/thumbup.png": "/portfolioreact/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/portfolioreact/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/portfolioreact/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/portfolioreact/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/portfolioreact/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/portfolioreact/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/portfolioreact/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/portfolioreact/index.html",
+    "main.4c3e6054.css.map": "/portfolioreact/static/css/main.4c3e6054.css.map",
+    "main.cf800c2d.js.map": "/portfolioreact/static/js/main.cf800c2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c3e6054.css",
+    "static/js/main.cf800c2d.js"
+  ]
+}
